@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manisha1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha (ganesh) shinde" height="30" width="40" /></a>
-<a href="https://fb.com/manisha gosavi shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manisha gosavi shinde" height="30" width="40" /></a>
+<a href="https://www.facebook.com/manisha.ganesh.shinde/about/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manisha gosavi shinde" height="30" width="40" /></a>
 <a href="https://instagram.com/manishashinde1713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishashinde1713" height="30" width="40" /></a>
 </p>
 
