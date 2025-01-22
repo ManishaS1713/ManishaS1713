@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mgshinde17@gmail.com**
 
-- 📄 Know about my experiences click here [https://drive.google.com/file/d/1G1ExrFh6SDYf36y5ZBtD2AAp8v6UNjHH/view?usp=drive_link]
+- 📄 Know about my experiences click here [https://drive.google.com/file/d/1iw4KD41cL95Vrg7DBCaM0EkFHdomcJYb/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
