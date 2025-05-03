@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Manisha Sharma</h1>
+<h1 align="center">👋 Hi, I'm Manisha Shinde</h1>
 <h3 align="center">🚀 Performance Tester | 🧪 QA Engineer | 📊 NeoLoad & JMeter Expert</h3>
 
 <p align="center">
@@ -16,18 +16,18 @@
 - ✅ **ISTQB Foundation Level Certified**  
 - 💡 Experienced with real-world testing projects using **NeoLoad** and **JMeter**  
 - 🔬 Specialized in performance bottleneck detection and SLA validations  
-- 💻 Keen interest in automation, scripting, and monitoring tools like Grafana
+- 💻 Keen interest in automation, scripting, and monitoring server metrics
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Category          | Tools & Technologies                       |
+| Category          | Tools & Technologies                        |
 |-------------------|---------------------------------------------|
-| 🧪 Performance     | NeoLoad, JMeter                            |
+| 🧪 Performance     | NeoLoad, JMeter                           |
 | 🔍 API Testing     | Postman, RESTful APIs                     |
-| 🧰 Automation      | Java, Shell                             |
-| 📊 Monitoring      | Perfmon, NeoLoad dashboards       |
+| 🧰 Automation      | Java, Groovy and Shell                    |
+| 📊 Monitoring      | Perfmon, NeoLoad dashboards               |
 | ⚙️ Dev Tools       | Git, GitHub, CI/CD (basic knowledge)      |
 
 ---
