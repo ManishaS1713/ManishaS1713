@@ -1,53 +1,55 @@
-<h1 align="center">Hi there 👋, I'm Manisha Sharma</h1>
-<h3 align="center">🚀 Performance Tester | 🛡️ E-KYC & QA Enthusiast | 💻 Real-World Testing Projects</h3>
+<h1 align="center">👋 Hi, I'm Manisha Sharma</h1>
+<h3 align="center">🚀 Performance Tester | 🧪 QA Engineer | 📊 NeoLoad & JMeter Expert</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NeoLoad-Expert-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JMeter-Proficient-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-API--Testing-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grafana-Basics-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISTQB-Certified-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API--Testing-Postman-red?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎯 Performance Engineer experienced with **JMeter**, **NeoLoad**, and **API Testing**
-- 💡 I’ve conducted end-to-end performance testing on **real-world critical systems**
-- 🔎 Strong focus on scalability, bottleneck detection, and SLA analysis
-- 🧩 Passionate about testing under pressure and reporting with insights
-
----
-
-### 📌 Real-World Projects
-
-#### 🧾 E-KYC Application Load Testing *(NeoLoad)*
-> Simulated 25+ user scenarios including registration, verification, and approval  
-> Analyzed system behavior under stress to optimize response time
-
-#### 🚗 Automotive Manufacturing App *(JMeter)*
-> Tested complex workflows like part ordering, assembly tracking, and logistics  
-> Delivered actionable metrics to help improve backend performance
-
-#### ✈️ Airport Security & Management System *(JMeter)*
-> Tested modules such as ID check, boarding, baggage handling & passenger flow  
-> Ensured reliability and performance during high-traffic simulations
+- 🎯 Performance Tester with a passion for speed, scalability, and system stability  
+- ✅ **ISTQB Foundation Level Certified**  
+- 💡 Experienced with real-world testing projects using **NeoLoad** and **JMeter**  
+- 🔬 Specialized in performance bottleneck detection and SLA validations  
+- 💻 Keen interest in automation, scripting, and monitoring tools like Grafana
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Area | Tools |
-|------|-------|
-| Performance | NeoLoad, JMeter |
-| API Testing | Postman, REST APIs |
-| Monitoring | Perfmon, NeoLoad Dashboards |
-| Automation | Java, Shell Scripting |
-| Dev Tools | Git, GitHub, CI/CD (basics) |
+| Category          | Tools & Technologies                       |
+|-------------------|---------------------------------------------|
+| 🧪 Performance     | NeoLoad, JMeter                            |
+| 🔍 API Testing     | Postman, RESTful APIs                     |
+| 🧰 Automation      | Python, Shell                             |
+| 📊 Monitoring      | Grafana (basic), NeoLoad dashboards       |
+| ⚙️ Dev Tools       | Git, GitHub, CI/CD (basic knowledge)      |
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Real-World Projects
+
+#### 🔹 E-KYC Application Performance Testing
+- Simulated realistic user scenarios for digital KYC onboarding and verification  
+- Built 25+ load test scripts in **NeoLoad**  
+- Focused on throughput, latency, and failure rate monitoring  
+
+#### 🔹 Automotive Manufacturing Application
+- Tested business workflows like component orders and logistics using **JMeter**  
+- Analyzed concurrency and database query performance  
+
+#### 🔹 Airport Security & Management System
+- Designed performance tests for ID check, boarding, and baggage systems  
+- Evaluated system reliability under high passenger traffic using **JMeter**
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManishaS1713&show_icons=true&theme=radical" width="400"/>
@@ -69,4 +71,4 @@
 
 ---
 
-> 💬 *“Great performance testing doesn't break the app — it reveals where it breaks.”*
+> 💬 *"Great performance testing doesn't break the app — it reveals where it breaks."*
