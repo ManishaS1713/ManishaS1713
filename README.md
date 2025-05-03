@@ -26,8 +26,8 @@
 |-------------------|---------------------------------------------|
 | 🧪 Performance     | NeoLoad, JMeter                            |
 | 🔍 API Testing     | Postman, RESTful APIs                     |
-| 🧰 Automation      | Python, Shell                             |
-| 📊 Monitoring      | Grafana (basic), NeoLoad dashboards       |
+| 🧰 Automation      | Java, Shell                             |
+| 📊 Monitoring      | Perfmon, NeoLoad dashboards       |
 | ⚙️ Dev Tools       | Git, GitHub, CI/CD (basic knowledge)      |
 
 ---
